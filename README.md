@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Hi there with custom font & wave animation -->
-  <h1><img src="https://readme-mirrors.universal-tutorial.com/01-simple-readme/raw/master/wave.gif" width="30px"> Hi, I'm Yasmine Hassan</h1>
+  <h1><img src="https://readme-mirrors.universal-tutorial.com/01-simple-readme/raw/master/wave.gif" width="30px"> Hi I'm Yasmine Hassan</h1>
   
   <h3>AI Architect 🤖 | Cloud Systems Explorer ☁️ | CS Innovator 🎓</h3>
 
   <p align="center">
-    <i>"Engineering intelligent solutions & scaling them on the cloud."</i>
+    <i>Engineering intelligent solutions & scaling them on the cloud</i>
   </p>
 
   <br/>
