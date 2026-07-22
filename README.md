@@ -21,7 +21,7 @@
 
 ### 🧠 <span style="color: #52796F;">Who am I?</span>
 
- a **Computer Science Student & Cloud/AI Systems Explorer**.
+Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems Explorer**.
 
 * 🎓 Studying **Computer Science**.
 * 🤖 I focus on **Artificial Intelligence, Cloud Infrastructure, Systems Engineering, and MLOps**.
@@ -48,20 +48,20 @@
 ### 🛠️ <span style="color: #52796F;">Tech Stack</span>
 
 #### <span style="color: #84A98C;">AI & Data Science</span>
-<code><img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
-<code><img height="32" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></code>
-<code><img height="32" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Python-52796F?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/TensorFlow-52796F?style=for-the-badge&logo=tensorflow&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/PyTorch-52796F?style=for-the-badge&logo=pytorch&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Scikit--Learn-52796F?style=for-the-badge&logo=scikit-learn&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Pandas-52796F?style=for-the-badge&logo=pandas&logoColor=white"/></code>
 
 <br/>
 
 #### <span style="color: #84A98C;">Cloud & DevOps Infrastructure</span>
-<code><img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
-<code><img height="32" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></code>
-<code><img height="32" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Linux-84A98C?style=for-the-badge&logo=linux&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/GNU%20Bash-84A98C?style=for-the-badge&logo=gnu-bash&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Docker-84A98C?style=for-the-badge&logo=docker&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Git-84A98C?style=for-the-badge&logo=git&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/GitHub-84A98C?style=for-the-badge&logo=github&logoColor=white"/></code>
 
 ---
 
