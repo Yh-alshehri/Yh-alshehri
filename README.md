@@ -66,7 +66,7 @@
 
 ---
 
-### <span style="color: #354F52;">🌐 Let's Connect</span>
+### <span style="color: #354F52;">🌐 Let's Connect!</span>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -74,30 +74,5 @@
   </a>
   <a href="mailto:Jasmeen1943@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=52796F" />
-  </a>
-</p></details>
-
-<br/>
-
-<details open>
-  <summary><b style="color: #2E8B57;">☁️ Cloud & Infrastructure</b></summary>
-  <br/>
-  <code><img height="35" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&color=2E8B57"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&color=2E8B57"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&color=2E8B57"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=2E8B57"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&color=2E8B57"/></code>
-</details>
-
----
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=556B2F" />
-  </a>
-  <a href="mailto:Jasmeen1943@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=556B2F" />
   </a>
 </p>
