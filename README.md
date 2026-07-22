@@ -1,6 +1,11 @@
 <div align="center">
 
-  <!-- Hi there with custom font & wave animation -->
+  <!-- Aesthetic Header Banner -->
+  <img src="https://images.unsplash.com/photo-1526047932273-341f2a7631f9?q=80&w=1200&auto=format&fit=crop" width="100%" height="220" style="border-radius: 12px; object-fit: cover;" />
+
+  <br/> <br/>
+
+  <!-- Header Text -->
   <h1><img src="https://readme-mirrors.universal-tutorial.com/01-simple-readme/raw/master/wave.gif" width="30px"> Hi I'm Yasmine Hassan</h1>
   
   <h3>AI Architect 🤖 | Cloud Systems Explorer ☁️ | CS Innovator 🎓</h3>
@@ -19,7 +24,7 @@
 ---
 
 ### 💡 About My Journey
-<img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNtdG16NjFhZWRrbWpjcWlncjdxcG04dnBrMzhreWc3MzQ5MGhveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF">
+<img align="right" width="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhscGRzNm1rZ3RxM21qNnBrdXZ2NHN6M3B3dTVqYnp6Z3p5Z3p4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbEuIqE0A56E0/giphy.gif" alt="Aesthetic GIF">
 
 A computer science student on a mission to build smarter systems. I'm deeply passionate about bridging the gap between cutting-edge Artificial Intelligence and robust Cloud Infrastructure.
 
@@ -57,11 +62,12 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 ---
 
 ### 🌐 Let's Connect!
+
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FFB6C1" />
   </a>
   <a href="mailto:Jasmeen1943@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FFB6C1" />
   </a>
 </p>
