@@ -11,7 +11,7 @@
   <br/>
 
   <!-- Subtitle Image with Exact Green Palette -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=52796F&center=true&vCenter=true&width=700&lines=AI+Architect+|+Cloud+Explorer+Innovator;Building+Smart+Solutions+with+Care" alt="Subtitle SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=52796F&center=true&vCenter=true&width=700&lines=AI+Architect+|+Cloud+Explorer+|+Innovator;Building+Smart+Solutions+with+Care" alt="Subtitle SVG" />
 
   <br/>
 
