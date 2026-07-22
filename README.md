@@ -57,14 +57,3 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 </details>
 
 ---
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20With%20Meridians.png" width="30"/> Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=52796F" />
-  </a>
-  <a href="mailto:Jasmeen1943@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=52796F" />
-  </a>
-</p>
