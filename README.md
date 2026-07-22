@@ -6,7 +6,7 @@
   <br/> <br/>
 
   <!-- SVG Header: Guaranteed Custom Green Font & Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=52796F&height=180&section=header&text=Hi,%20I'm%20Yasmine%20Hassan%20🌿&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=52796F&height=180&section=header&text=Hi,%20I'm%20Yasmine%20Hassan%20&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
   <br/>
 
@@ -14,9 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=84A98C&center=true&vCenter=true&width=600&lines=AI+Architect+%F0%9F%A4%96+|+Cloud+Explorer+%26+Innovator+%E2%98%81%EF%B8%8F;Building+Smart+Solutions+with+Care+%F0%9F%8D%83" alt="Subtitle SVG" />
 
   <br/>
-
-  <!-- Soft Green Line Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="100%" height="3px">
 
 </div>
 
