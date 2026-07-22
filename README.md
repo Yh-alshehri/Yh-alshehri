@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Guaranteed Working Aesthetic Banner -->
-  <img src="https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1200&auto=format&fit=crop" width="100%" height="320" style="border-radius: 15px; object-fit: cover;" alt="Aesthetic Banner" />
+  <!-- Your New Aesthetic Banner -->
+  <img src="https://i.pinimg.com/originals/df/42/d1/df42d18c53a4d274d511349990a4ed19.jpg" width="100%" height="350" style="border-radius: 18px; object-fit: cover;" alt="Aesthetic Green Header" />
 
   <br/> <br/>
 
-  <!-- Header Text -->
+  <!-- Green Header -->
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px"> <span style="color: #6B8E23;">Hi, I'm Yasmine Hassan 🌿</span></h1>
   
   <h3 style="color: #4A6B35;">AI Architect 🤖 | Cloud Systems Explorer ☁️ | CS Innovator 🎓</h3>
@@ -24,8 +24,8 @@
 ---
 
 ### 💡 About My Journey
-<!-- Guaranteed Working Aesthetic GIF -->
-<img align="right" width="170" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Gifs/Cat-Lofi.gif" alt="Aesthetic Cat GIF" style="border-radius: 12px;">
+<!-- Aesthetic Soft GIF -->
+<img align="right" width="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhscGRzNm1rZ3RxM21qNnBrdXZ2NHN6M3B3dTVqYnp6Z3p5Z3p4dyZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/VbEuIqE0A56E0/giphy.gif" alt="Aesthetic GIF">
 
 A computer science student on a mission to build smarter systems. I'm deeply passionate about bridging the gap between cutting-edge Artificial Intelligence and robust Cloud Infrastructure.
 
