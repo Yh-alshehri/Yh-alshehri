@@ -27,9 +27,6 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30"/> About My Journey
-<!-- Aesthetic Soft GIF -->
-<img align="right" width="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhscGRzNm1rZ3RxM21qNnBrdXZ2NHN6M3B3dTVqYnp6Z3p5Z3p4dyZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/VbEuIqE0A56E0/giphy.gif" alt="Aesthetic GIF">
 
 A computer science student on a mission to build smarter systems. I'm deeply passionate about bridging the gap between cutting-edge Artificial Intelligence and robust Cloud Infrastructure.
 
