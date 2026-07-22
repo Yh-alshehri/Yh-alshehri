@@ -6,7 +6,7 @@
   <br/> <br/>
 
   <!-- Title: Hi, I'm Yasmine Hassan (Same Typing SVG style) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=84A98C&center=true&vCenter=true&width=700&lines=Hi +I'm+Yasmine+Hassan+%F0%9F%8D%83" alt="Name SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=84A98C&center=true&vCenter=true&width=700&lines=Hi+I'm+Yasmine+Hassan+%F0%9F%8D%83" alt="Name SVG" />
 
   <br/>
 
