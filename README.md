@@ -19,29 +19,26 @@
 
 ---
 
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30"/> About My Journey
-
-<img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNtdG16NjFhZWRrbWpjcWlncjdxcG04dnBrMzhreWc3MzQ5MGhveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF">
-
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30"/> <span style="color: #52796F;">About My Journey</span>
 
 <!-- Aesthetic Soft GIF -->
 <img align="right" width="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhscGRzNm1rZ3RxM21qNnBrdXZ2NHN6M3B3dTVqYnp6Z3p5Z3p4dyZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/VbEuIqE0A56E0/giphy.gif" alt="Aesthetic GIF">
 
+<p style="color: #A3B18A;">
 A computer science student on a mission to build smarter systems. I'm deeply passionate about bridging the gap between cutting-edge Artificial Intelligence and robust Cloud Infrastructure.
+</p>
 
-*   🌱 **Focusing on:** Deploying ML models on Cloud Infrastructure.
-*   🍃 **Currently Learning:** Containerization (Docker, Kubernetes) & MLOps.
-*   🤝 **Open to Collaborate on:** AI-driven Cloud applications.
-*   ⚡ **Fun Fact:** My current projects (Network Monitor & Linux Automation) are the perfect backbone for Cloud Systems!
+* 🌱 <b style="color: #52796F;">Focusing on:</b> <font color="#A3B18A">Deploying ML models on Cloud Infrastructure.</font>
+* 🍃 <b style="color: #52796F;">Currently Learning:</b> <font color="#A3B18A">Containerization (Docker, Kubernetes) & MLOps.</font>
+* 🤝 <b style="color: #52796F;">Open to Collaborate on:</b> <font color="#A3B18A">AI-driven Cloud applications.</font>
+* ⚡ <b style="color: #52796F;">Fun Fact:</b> <font color="#A3B18A">My current projects (Network Monitor & Linux Automation) are the perfect backbone for Cloud Systems!</font>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> My Tech Toolbox
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> <span style="color: #52796F;">My Tech Toolbox</span>
 
 <details open>
-  <summary><b>🤖 Artificial Intelligence & Data</b></summary>
+  <summary><b style="color: #52796F;">🤖 Artificial Intelligence & Data</b></summary>
   <br/>
   <code><img height="35" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=52796F"/></code>
   <code><img height="35" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&color=52796F"/></code>
@@ -53,7 +50,7 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 <br/>
 
 <details open>
-  <summary><b>☁️ Cloud & Infrastructure</b></summary>
+  <summary><b style="color: #52796F;">☁️ Cloud & Infrastructure</b></summary>
   <br/>
   <code><img height="35" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&color=84A98C"/></code>
   <code><img height="35" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&color=84A98C"/></code>
@@ -63,7 +60,8 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 </details>
 
 ---
- Let's Connect
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20With%20Meridians.png" width="30"/> <span style="color: #52796F;">Let's Connect</span>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
