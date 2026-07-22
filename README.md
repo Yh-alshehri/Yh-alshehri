@@ -5,23 +5,26 @@
 
   <br/> <br/>
 
-  <!-- Guaranteed Green Header Name -->
-  <h1 align="center" style="font-family: 'Fira Code', monospace; color: #84A98C; font-size: 32px;">
-    Hi I'm Yasmine Hassan 
-  </h1>
-
-  <h3 align="center" style="font-family: 'Fira Code', monospace; color: #52796F; font-size: 18px;">
-    AI Architect 🤖 | Cloud Systems Explorer ☁️
-  </h3>
-
-  <p align="center">
-    <i style="color: #A3B18A;">"Engineering intelligent cloud solutions with clarity and care."</i>
-  </p>
+  <!-- SVG Header: Guaranteed Custom Green Font & Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=52796F&height=180&section=header&text=Hi,%20I'm%20Yasmine%20Hassan%20🌿&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
   <br/>
 
+  <!-- Subtitle Image with Exact Green Palette -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=84A98C&center=true&vCenter=true&width=600&lines=AI+Architect+%F0%9F%A4%96+|+Cloud+Explorer+%26+Innovator+%E2%98%81%EF%B8%8F;Building+Smart+Solutions+with+Care+%F0%9F%8D%83" alt="Subtitle SVG" />
+
+  <br/>
+
+  <!-- Soft Green Line Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="100%" height="3px">
+
+</div>
+
 ---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30"/> About My Journey
+<!-- Aesthetic Soft GIF -->
+<img align="right" width="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhscGRzNm1rZ3RxM21qNnBrdXZ2NHN6M3B3dTVqYnp6Z3p5Z3p4dyZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/VbEuIqE0A56E0/giphy.gif" alt="Aesthetic GIF">
 
 A computer science student on a mission to build smarter systems. I'm deeply passionate about bridging the gap between cutting-edge Artificial Intelligence and robust Cloud Infrastructure.
 
@@ -57,3 +60,14 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 </details>
 
 ---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20With%20Meridians.png" width="30"/> Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=52796F" />
+  </a>
+  <a href="mailto:Jasmeen1943@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=52796F" />
+  </a>
+</p>
