@@ -63,7 +63,7 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 
 <img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNtdG16NjFhZWRrbWpjcWlncjdxcG04dnBrMzhreWc3MzQ5MGhveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20With%20Meridians.png" width="30"/> <span style="color: #52796F;">Let's Connect</span>
+### Let's Connect</span>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
