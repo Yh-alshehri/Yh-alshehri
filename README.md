@@ -5,13 +5,13 @@
 
   <br/> <br/>
 
-  <!-- 2. Main Name Banner Card (Under Image directly) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F3E46&height=120&section=header&text=Yasmine%20Hassan&fontSize=38&fontColor=CAD2C5&animation=fadeIn&fontAlignY=40&desc=AI%20Architect%20%7C%20Cloud%20Systems%20Explorer%20%7C%20CS%20Innovator&descAlignY=70&descSize=16" width="100%" style="border-radius: 12px;" />
+  <!-- 2. Main Name in Same Typing SVG Style (Bigger Font) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=84A98C&center=true&vCenter=true&width=700&lines=Hi+I'm+Yasmine+Hassan" alt="Name SVG" />
 
-  <br/> <br/>
+  <br/>
 
-  <!-- 3. Top Focus Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=84A98C&center=true&vCenter=true&width=800&lines=Python+%7C+Cloud+Systems+%7C+MLOps+%7C+AI+Architecture" alt="Focus Area" />
+  <!-- 3. Subtitle / Focus Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=52796F&center=true&vCenter=true&width=700&lines=AI+Architect+|+Cloud+Explorer+|+Innovator;Building+Smart+Solutions+with+Care" alt="Subtitle SVG" />
 
   <br/>
 
@@ -21,7 +21,7 @@
 
 ### 🧠 <span style="color: #52796F;">Who am I?</span>
 
-Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems Explorer**.
+Hi 👋 I'm **Yasmine **, a **Computer Science Student & Cloud/AI Systems Explorer**.
 
 * 🎓 Studying **Computer Science**.
 * 🤖 I focus on **Artificial Intelligence, Cloud Infrastructure, Systems Engineering, and MLOps**.
@@ -71,15 +71,15 @@ Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems 
   <table border="0">
     <tr>
       <td width="33%" align="center">
-        <img src="cert1.pnj" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Linux Certification"/><br/>
+        <img src="cert1.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Linux Certification"/><br/>
         <b style="color: #A3B18A;">Linux System Administration</b>
       </td>
       <td width="33%" align="center">
-        <img src="cert2.pnj" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="API Certification"/><br/>
+        <img src="cert2.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="API Certification"/><br/>
         <b style="color: #A3B18A;">Network APIs & Automation</b>
       </td>
       <td width="33%" align="center">
-        <img src="cert3.pnj" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Coursera Certification"/><br/>
+        <img src="cert3.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Coursera Certification"/><br/>
         <b style="color: #A3B18A;">Coursera Professional Certificate</b>
       </td>
     </tr>
