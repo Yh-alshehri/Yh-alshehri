@@ -3,18 +3,23 @@
   <!-- 1. Local Uploaded Image First -->
   <img src="صورة.jpg" width="100%" height="350" style="border-radius: 18px; object-fit: cover;" alt="Aesthetic Green Header" />
 
-  <br/> <br/>
-
-  <!-- 2. Top Focus Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=84A98C&center=true&vCenter=true&width=800&lines=Python+%7C+Cloud+Systems+%7C+MLOps+%7C+AI+Architecture" alt="Focus Area" />
-
-  <br/> <br/>
+  <br/> 
+  <br/>
 
   <!-- 3. Main Name Banner Card -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2F3E46&height=120&section=header&text=Yasmine%20Hassan&fontSize=38&fontColor=CAD2C5&animation=fadeIn&fontAlignY=40&desc=AI%20Architect%20%7C%20Cloud%20Systems%20Explorer%20%7C%20CS%20Innovator&descAlignY=70&descSize=16" width="100%" style="border-radius: 12px;" />
 
   <br/>
 
+  
+  
+  <br/>
+
+
+  <!-- 2. Top Focus Typing Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=84A98C&center=true&vCenter=true&width=800&lines=Python+%7C+Cloud+Systems+%7C+MLOps+%7C+AI+Architecture" alt="Focus Area" />
+
+  <br/> 
 </div>
 
 ---
