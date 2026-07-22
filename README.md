@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Your New Aesthetic Banner -->
-  <img src="https://i.pinimg.com/originals/df/42/d1/df42d18c53a4d274d511349990a4ed19.jpg" width="100%" height="350" style="border-radius: 18px; object-fit: cover;" alt="Aesthetic Green Header" />
+  <!-- Local Uploaded Image -->
+  <img src="صورة.jpg" width="100%" height="350" style="border-radius: 18px; object-fit: cover;" alt="Aesthetic Green Header" />
 
   <br/> <br/>
 
