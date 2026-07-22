@@ -71,15 +71,15 @@ Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems 
   <table border="0">
     <tr>
       <td width="33%" align="center">
-        <img src="cert1.jpg" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Linux Certification"/><br/>
+        <img src="cert1.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Linux Certification"/><br/>
         <b style="color: #A3B18A;">Linux System Administration</b>
       </td>
       <td width="33%" align="center">
-        <img src="cert2.jpg" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="API Certification"/><br/>
+        <img src="cert2.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="API Certification"/><br/>
         <b style="color: #A3B18A;">Network APIs & Automation</b>
       </td>
       <td width="33%" align="center">
-        <img src="cert3.jpg" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Coursera Certification"/><br/>
+        <img src="cert3.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Coursera Certification"/><br/>
         <b style="color: #A3B18A;">Coursera Professional Certificate</b>
       </td>
     </tr>
