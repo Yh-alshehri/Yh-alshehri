@@ -5,12 +5,14 @@
 
   <br/> <br/>
 
-  <!-- Unified Typing SVG: Full Text with Fira Code Green Style -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=84A98C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yasmine+Hassan+🌿;AI+Architect+%7C+Cloud+Systems+Explorer+☁️" alt="Typing SVG" />
-  </a>
+  <!-- Guaranteed Green Header Name -->
+  <h1 align="center" style="font-family: 'Fira Code', monospace; color: #84A98C; font-size: 32px;">
+    Hi, I'm Yasmine Hassan 🌿
+  </h1>
 
-  <br/>
+  <h3 align="center" style="font-family: 'Fira Code', monospace; color: #52796F; font-size: 18px;">
+    AI Architect 🤖 | Cloud Systems Explorer ☁️
+  </h3>
 
   <p align="center">
     <i style="color: #A3B18A;">"Engineering intelligent cloud solutions with clarity and care."</i>
