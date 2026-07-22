@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Aesthetic Banner -->
-  <img src="https://i.pinimg.com/originals/13/d6/24/13d624efee9651fbc56841050f8c9620.webp" width="100%" height="380" style="border-radius: 18px; object-fit: cover;" />
+  <!-- Guaranteed Working Aesthetic Banner -->
+  <img src="https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1200&auto=format&fit=crop" width="100%" height="320" style="border-radius: 15px; object-fit: cover;" alt="Aesthetic Banner" />
 
   <br/> <br/>
 
-  <!-- Reliable Green Animated Header -->
-  <h1><img src="https://readme-mirrors.universal-tutorial.com/01-simple-readme/raw/master/wave.gif" width="35px"> <span style="color: #6B8E23;">Hi, I'm Yasmine Hassan 🌿</span></h1>
+  <!-- Header Text -->
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px"> <span style="color: #6B8E23;">Hi, I'm Yasmine Hassan 🌿</span></h1>
   
   <h3 style="color: #4A6B35;">AI Architect 🤖 | Cloud Systems Explorer ☁️ | CS Innovator 🎓</h3>
 
@@ -24,8 +24,8 @@
 ---
 
 ### 💡 About My Journey
-<!-- Previous Soft Aesthetic GIF -->
-<img align="right" width="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhscGRzNm1rZ3RxM21qNnBrdXZ2NHN6M3B3dTVqYnp6Z3p5Z3p4dyZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/VbEuIqE0A56E0/giphy.gif" alt="Aesthetic GIF">
+<!-- Guaranteed Working Aesthetic GIF -->
+<img align="right" width="170" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Gifs/Cat-Lofi.gif" alt="Aesthetic Cat GIF" style="border-radius: 12px;">
 
 A computer science student on a mission to build smarter systems. I'm deeply passionate about bridging the gap between cutting-edge Artificial Intelligence and robust Cloud Infrastructure.
 
@@ -62,7 +62,7 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
