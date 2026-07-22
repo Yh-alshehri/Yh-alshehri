@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
   <!-- Larger Aesthetic Banner -->
   <img src="https://i.pinimg.com/originals/7f/0d/10/7f0d10e28387eb68f8bbdd67d3baf094.jpg" width="100%" height="380" style="border-radius: 18px; object-fit: cover;" />
@@ -77,3 +77,4 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=556B2F" />
   </a>
 </p>
+](https://i.pinimg.com/vwebp/1200x/13/d6/24/13d624efee9651fbc56841050f8c9620.webp)
