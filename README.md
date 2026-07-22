@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- Aesthetic AI/Cloud Banner -->
-  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&auto=format&fit=crop" width="100%" height="250" style="border-radius: 15px; object-fit: cover;" alt="AI and Cloud Aesthetics"/>
-  
-  <br/>
-
   <!-- Hi there with custom font & wave animation -->
   <h1><img src="https://readme-mirrors.universal-tutorial.com/01-simple-readme/raw/master/wave.gif" width="30px"> Hi, I'm Yasmine Hassan</h1>
   
@@ -61,14 +56,6 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 
 ---
 
-### 📊 GitHub Dimensions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yh-alshehri&show_icons=true&theme=nord&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yh-alshehri&layout=compact&theme=nord&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🌐 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -78,9 +65,3 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=336699&height=100&section=footer" width="100%"/>
-</div>
