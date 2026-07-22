@@ -88,6 +88,8 @@ Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems 
 
 ---
 
+<img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNtdG16NjFhZWRrbWpjcWlncjdxcG04dnBrMzhreWc3MzQ5MGhveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF">
+
 ### ⭐ <span style="color: #52796F;">Soft Skills</span>
 
 * 🎯 **Problem-Solving & Systems Architecture Thinking**
