@@ -7,7 +7,7 @@
 
   <!-- Guaranteed Green Header Name -->
   <h1 align="center" style="font-family: 'Fira Code', monospace; color: #84A98C; font-size: 32px;">
-    Hi, I'm Yasmine Hassan 🌿
+    Hi I'm Yasmine Hassan 
   </h1>
 
   <h3 align="center" style="font-family: 'Fira Code', monospace; color: #52796F; font-size: 18px;">
@@ -19,11 +19,6 @@
   </p>
 
   <br/>
-
-  <!-- Soft Green Line Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="100%" height="3px">
-
-</div>
 
 ---
 
