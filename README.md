@@ -57,7 +57,7 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 </details>
 
 ---
- Let's Connect!
+ Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
