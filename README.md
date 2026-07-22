@@ -1,30 +1,25 @@
 <div align="center">
 
-  <!-- 1. Local Uploaded Image First -->
+  <!-- 1. Local Uploaded Image -->
   <img src="صورة.jpg" width="100%" height="350" style="border-radius: 18px; object-fit: cover;" alt="Aesthetic Green Header" />
 
-  <br/> 
-  <br/>
+  <br/> <br/>
 
-  <!-- 3. Main Name Banner Card -->
+  <!-- 2. Main Name Banner Card (Under Image directly) -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2F3E46&height=120&section=header&text=Yasmine%20Hassan&fontSize=38&fontColor=CAD2C5&animation=fadeIn&fontAlignY=40&desc=AI%20Architect%20%7C%20Cloud%20Systems%20Explorer%20%7C%20CS%20Innovator&descAlignY=70&descSize=16" width="100%" style="border-radius: 12px;" />
 
-  <br/>
+  <br/> <br/>
 
-  
-  
-  <br/>
-
-
-  <!-- 2. Top Focus Typing Banner -->
+  <!-- 3. Top Focus Typing Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=84A98C&center=true&vCenter=true&width=800&lines=Python+%7C+Cloud+Systems+%7C+MLOps+%7C+AI+Architecture" alt="Focus Area" />
 
-  <br/> 
+  <br/>
+
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="28"/> <span style="color: #52796F;">Who am I?</span>
+### 🧠 <span style="color: #52796F;">Who am I?</span>
 
 Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems Explorer**.
 
@@ -37,7 +32,7 @@ Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Link.png" width="28"/> <span style="color: #52796F;">Connect with Me</span>
+### 🔗 <span style="color: #52796F;">Connect with Me</span>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -50,7 +45,7 @@ Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> <span style="color: #52796F;">Tech Stack</span>
+### 🛠️ <span style="color: #52796F;">Tech Stack</span>
 
 #### <span style="color: #84A98C;">AI & Data Science</span>
 <code><img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
@@ -70,21 +65,21 @@ Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28"/> <span style="color: #52796F;">Certifications</span>
+### 🎓 <span style="color: #52796F;">Certifications</span>
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="33%" align="center">
-        <img src="cert1.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Linux Certification"/><br/>
+        <img src="cert1.pnj" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Linux Certification"/><br/>
         <b style="color: #A3B18A;">Linux System Administration</b>
       </td>
       <td width="33%" align="center">
-        <img src="cert2.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="API Certification"/><br/>
+        <img src="cert2.pnj" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="API Certification"/><br/>
         <b style="color: #A3B18A;">Network APIs & Automation</b>
       </td>
       <td width="33%" align="center">
-        <img src="cert3.png" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Coursera Certification"/><br/>
+        <img src="cert3.pnj" width="100%" style="border-radius: 8px; border: 1px solid #52796F;" alt="Coursera Certification"/><br/>
         <b style="color: #A3B18A;">Coursera Professional Certificate</b>
       </td>
     </tr>
@@ -93,7 +88,7 @@ Hi 👋 I'm **Yasmine Hassan**, a **Computer Science Student & Cloud/AI Systems 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" width="28"/> <span style="color: #52796F;">Soft Skills</span>
+### ⭐ <span style="color: #52796F;">Soft Skills</span>
 
 * 🎯 **Problem-Solving & Systems Architecture Thinking**
 * 👥 **Teamwork & Technical Collaboration**
