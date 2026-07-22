@@ -1,86 +1,72 @@
 <div align="center">
 
-  <!-- Aesthetic AI/Cloud Banner -->
-  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&auto=format&fit=crop" width="100%" height="250" style="border-radius: 15px; object-fit: cover;" alt="AI and Cloud Aesthetics"/>
+  <!-- Aesthetic Tech & Flowers Header -->
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="100%" height="280" style="border-radius: 15px; object-fit: cover;" alt="Aesthetic Tech Header"/>
   
   <br/>
 
-  <!-- Hi there with custom font & wave animation -->
-  <h1><img src="https://readme-mirrors.universal-tutorial.com/01-simple-readme/raw/master/wave.gif" width="30px"> Hi, I'm Yasmine Hassan</h1>
+  <!-- Personalized Welcome with subtle animation -->
+  <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhscGRzNm1rZ3RxM21qNnBrdXZ2NHN6M3B3dTVqYnp6Z3p5Z3p4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbEuIqE0A56E0/giphy.gif" width="35px"> Welcome to My Digital Space!</h1>
   
-  <h3>AI Architect 🤖 | Cloud Systems Explorer ☁️ | CS Innovator 🎓</h3>
+  <h3 style="color: #FFB6C1;">AI Architect 🤖 | Cloud Explorer ☁️ | Tech Innovator </h3>
 
   <p align="center">
-    <i>"Engineering intelligent solutions & scaling them on the cloud."</i>
+    <i>"Crafting intelligent cloud solutions with a touch of elegance."</i>
   </p>
 
   <br/>
 
-  <!-- Space Invader Line / Divider -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Space%20Invaders/Space%20Invaders.gif" width="100%" height="20px">
+  <!-- Elegant Line Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="2px">
 
 </div>
 
 ---
 
-### 💡 About My Journey
-<img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNtdG16NjFhZWRrbWpjcWlncjdxcG04dnBrMzhreWc3MzQ5MGhveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF">
+### <img src="https://img.icons8.com/fluency/48/user-female-circle.png" width="30"/> About Me
 
-A computer science student on a mission to build smarter systems. I'm deeply passionate about bridging the gap between cutting-edge Artificial Intelligence and robust Cloud Infrastructure.
+A passionate computer science student dedicated to mastering the realms of **Artificial Intelligence** and **Cloud Computing**. I believe in the power of technology to create smarter, scalable solutions.
 
-*   🔭 **Focusing on:** Deploying ML models on AWS/Google Cloud.
-*   🌱 **Currently Learning:** Containerization (Docker, Kubernetes) & MLOps.
-*   👯 **Open to Collaborate on:** AI-driven Cloud applications.
-*   ⚡ **Fun Fact:** My current projects (Network Monitor & Linux Automation) are the perfect backbone for understanding Cloud DevOps!
+*   🌸 **Current Focus:** Deep Learning models & Cloud Security.
+*   ✨ **Learning Journey:** Kubernets & Advanced MLOps.
+*   🤝 **Open for:** Collaborative AI/Cloud projects.
+*   💡 **Current Repos:** My Linux & Network automation scripts are just the beginning!
 
 ---
 
-### 🛠️ My Tech Toolbox
+### <img src="https://img.icons8.com/fluency/48/maintenance.png" width="30"/> My Tech Suite
 
 <details open>
-  <summary><b>🤖 Artificial Intelligence & Data</b></summary>
+  <summary><b style="color: #FFB6C1;">🤖 AI & Data Science</b></summary>
   <br/>
-  <code><img height="35" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></code>
+  <code><img height="35" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=D14836"/></code>
+  <code><img height="35" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&color=D14836"/></code>
+  <code><img height="35" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&color=D14836"/></code>
+  <code><img height="35" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&color=D14836"/></code>
 </details>
 
 <br/>
 
 <details open>
-  <summary><b>☁️ Cloud & Infrastructure</b></summary>
+  <summary><b style="color: #FFB6C1;">☁️ Cloud & Infrastructure</b></summary>
   <br/>
-  <code><img height="35" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></code>
-  <code><img height="35" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></code>
+  <code><img height="35" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&color=FCC624"/></code>
+  <code><img height="35" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&color=FCC624"/></code>
+  <code><img height="35" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&color=FCC624"/></code>
+  <code><img height="35" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=FCC624"/></code>
 </details>
 
 ---
 
-### 📊 GitHub Dimensions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yh-alshehri&show_icons=true&theme=nord&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yh-alshehri&layout=compact&theme=nord&hide_border=true" width="48%" />
-</p>
+### <img src="https://img.icons8.com/fluency/48/share--v1.png" width="30"/> Connect with Me
 
----
-
-### 🌐 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FFC0CB" />
   </a>
   <a href="mailto:Jasmeen1943@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FFC0CB" />
   </a>
 </p>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=336699&height=100&section=footer" width="100%"/>
-</div>
+---
