@@ -57,8 +57,7 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 </details>
 
 ---
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20With%20Meridians.png" width="30"/> Let's Connect!
+ Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
