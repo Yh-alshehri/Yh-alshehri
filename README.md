@@ -6,12 +6,12 @@
   <br/> <br/>
 
   <!-- Title: Hi, I'm Yasmine Hassan (Same Typing SVG style) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=84A98C&center=true&vCenter=true&width=700&lines=Hi+I'm+Yasmine+Hassan+%F0%9F%8D%83" alt="Name SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=84A98C&center=true&vCenter=true&width=700&lines=Hi+I'm+Yasmine+Hassan" alt="Name SVG" />
 
   <br/>
 
   <!-- Subtitle Image with Exact Green Palette -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=52796F&center=true&vCenter=true&width=700&lines=AI+Architect+%F0%9F%A4%96+|+Cloud+Explorer+%26+Innovator+%E2%98%81%EF%B8%8F;Building+Smart+Solutions+with+Care+%F0%9F%8D%83" alt="Subtitle SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=52796F&center=true&vCenter=true&width=700&lines=AI+Architect+|+Cloud+Explorer+Innovator;Building+Smart+Solutions+with+Care" alt="Subtitle SVG" />
 
   <br/>
 
