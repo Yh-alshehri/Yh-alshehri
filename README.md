@@ -1,17 +1,12 @@
 <div align="center">
 
-  <!-- Your New Aesthetic Banner -->
+  <!-- Aesthetic Banner -->
   <img src="https://i.pinimg.com/originals/13/d6/24/13d624efee9651fbc56841050f8c9620.webp" width="100%" height="380" style="border-radius: 18px; object-fit: cover;" />
 
   <br/> <br/>
 
-  <!-- Animated Green Header -->
-  <h1 align="center">
-    <img src="https://readme-mirrors.universal-tutorial.com/01-simple-readme/raw/master/wave.gif" width="35px">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6B8E23&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yasmine+Hassan+🌿;Welcome+to+my+Space+✨" alt="Typing SVG" />
-    </a>
-  </h1>
+  <!-- Reliable Green Animated Header -->
+  <h1><img src="https://readme-mirrors.universal-tutorial.com/01-simple-readme/raw/master/wave.gif" width="35px"> <span style="color: #6B8E23;">Hi, I'm Yasmine Hassan 🌿</span></h1>
   
   <h3 style="color: #4A6B35;">AI Architect 🤖 | Cloud Systems Explorer ☁️ | CS Innovator 🎓</h3>
 
@@ -29,8 +24,8 @@
 ---
 
 ### 💡 About My Journey
-<!-- Blue/Green Aesthetic Pixel GIF -->
-<img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjcXN1a3MzeDJtd3Z1YnZ1YmxocmVveWl6Z2IycXRzc2h3eHJ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Blue Green GIF" style="border-radius: 10px;">
+<!-- Previous Soft Aesthetic GIF -->
+<img align="right" width="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhscGRzNm1rZ3RxM21qNnBrdXZ2NHN6M3B3dTVqYnp6Z3p5Z3p4dyZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/VbEuIqE0A56E0/giphy.gif" alt="Aesthetic GIF">
 
 A computer science student on a mission to build smarter systems. I'm deeply passionate about bridging the gap between cutting-edge Artificial Intelligence and robust Cloud Infrastructure.
 
@@ -67,7 +62,7 @@ A computer science student on a mission to build smarter systems. I'm deeply pas
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
