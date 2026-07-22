@@ -21,7 +21,7 @@
 
 ### 🧠 <span style="color: #52796F;">Who am I?</span>
 
-Hi 👋 I'm **Yasmine **, a **Computer Science Student & Cloud/AI Systems Explorer**.
+ a **Computer Science Student & Cloud/AI Systems Explorer**.
 
 * 🎓 Studying **Computer Science**.
 * 🤖 I focus on **Artificial Intelligence, Cloud Infrastructure, Systems Engineering, and MLOps**.
